@@ -262,7 +262,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Park",
+  "name": "Park.1",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
